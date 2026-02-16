@@ -1,0 +1,17 @@
+baseURL = 'https://limarafaelvaz.github.io/'
+theme = 'PaperMod'
+
+# Idioma padrão
+defaultContentLanguage = 'pt-br'
+
+[languages]
+    [languages.pt-br]
+        languageCode = 'pt-br'
+        contentDir = 'content/pt-br'
+        title = 'Rafael Vaz | AI DevLog'
+        weight = 1
+    [languages.en]
+        languageCode = 'en-us'
+        contentDir = 'content/en'
+        title = 'Rafael Vaz | AI Portfolio'
+        weight = 2
