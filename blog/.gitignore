@@ -1,0 +1,15 @@
+# Hugo - Diretórios de saída e cache
+public/
+resources/
+.hugo_build.lock
+
+# Assets processados e temporários
+/assets/jsconfig.json
+.DS_Store
+Thumbs.db
+
+# Logs de erro
+hugo_stats.json
+
+# Se você usar o LocalStack na mesma pasta futuramente
+.localstack/
