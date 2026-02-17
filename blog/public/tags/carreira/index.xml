@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Rafael Vaz | AI DevLog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Rafael Vaz | AI DevLog</description>
+    <title>Carreira on Rafael Vaz | AI DevLog</title>
+    <link>http://localhost:1313/tags/carreira/</link>
+    <description>Recent content in Carreira on Rafael Vaz | AI DevLog</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/carreira/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dev, Arquitetura e AI</title>
       <link>http://localhost:1313/posts/apresentacao/</link>
