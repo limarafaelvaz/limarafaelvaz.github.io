@@ -1,3 +1,5 @@
+[params]
+  author = "Rafael Vaz de Lima"git add blog/hugo.toml
 baseURL = 'https://limarafaelvaz.github.io/'
 theme = 'PaperMod'
 

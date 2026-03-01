@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rafael Vaz | AI DevLog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Rafael Vaz | AI DevLog</description>
+    <title>Rafael Vaz | AI Portfolio</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Rafael Vaz | AI Portfolio</description>
     <generator>Hugo</generator>
-    <language>pt-br</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dev, Arquitetura e AI</title>
-      <link>http://localhost:1313/posts/apresentacao/</link>
+      <title>Dev, Architecture, and AI</title>
+      <link>//localhost:1313/posts/presentation/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apresentacao/</guid>
-      <description>&lt;p&gt;Olá! Sou &lt;strong&gt;Rafael Vaz de Lima&lt;/strong&gt;, um Engenheiro de Software Sênior baseado em Divinópolis, MG. Com mais de uma década de experiência em desenvolvimento e infraestrutura, decidi consolidar minha paixão por sistemas de alta performance e Inteligência Artificial.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-experiência-e-senioridade&#34;&gt;🚀 Experiência e Senioridade&lt;/h3&gt;&#xA;&lt;p&gt;Minha trajetória foi construída lidando com desafios complexos de arquitetura. Tenho um histórico sólido em tecnologias que exigem resiliência e escalabilidade.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-tech-stack-principal&#34;&gt;🛠️ Tech Stack Principal&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🐹 &lt;strong&gt;Go&lt;/strong&gt; (Minha escolha atual para performance)&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;Node.js&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🔷 &lt;strong&gt;C#&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🐘 &lt;strong&gt;PHP&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mobile &amp;amp; Frontend&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📱 &lt;strong&gt;Kotlin &amp;amp; Jetpack Compose&lt;/strong&gt; (Desenvolvimento Android)&lt;/li&gt;&#xA;&lt;li&gt;🟨 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;IA &amp;amp; Dados&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🤖 &lt;strong&gt;RAG, LLMs e Generative AI&lt;/strong&gt; (Foco da minha pós-graduação atual)&lt;/li&gt;&#xA;&lt;li&gt;🐍 &lt;strong&gt;Python &amp;amp; Scrapy&lt;/strong&gt; (Web Scraping avançado)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>//localhost:1313/posts/presentation/</guid>
+      <description>&lt;p&gt;Hello! I am &lt;strong&gt;Rafael Vaz de Lima&lt;/strong&gt;, a Senior Software Engineer based in Brazil. With over a decade of experience in development and infrastructure, I have decided to consolidate my passion for high-performance systems and Artificial Intelligence.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-experience-and-seniority&#34;&gt;🚀 Experience and Seniority&lt;/h3&gt;&#xA;&lt;p&gt;My career has been built by tackling complex architectural challenges. I have a solid track record with technologies that demand resilience and scalability.&lt;/p&gt;&#xA;&lt;h4 id=&#34;-core-tech-stack&#34;&gt;🛠️ Core Tech Stack&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🐹 &lt;strong&gt;Go&lt;/strong&gt; (My current choice for performance)&lt;/li&gt;&#xA;&lt;li&gt;🟢 &lt;strong&gt;Node.js&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🔷 &lt;strong&gt;C#&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;🐘 &lt;strong&gt;PHP&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mobile &amp;amp; Frontend&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📱 &lt;strong&gt;Kotlin &amp;amp; Jetpack Compose&lt;/strong&gt; (Android Development)&lt;/li&gt;&#xA;&lt;li&gt;🟨 &lt;strong&gt;JavaScript&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AI &amp;amp; Data&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🤖 &lt;strong&gt;RAG, LLMs, and Generative AI&lt;/strong&gt; (Focus of my current postgraduate studies)&lt;/li&gt;&#xA;&lt;li&gt;🐍 &lt;strong&gt;Python &amp;amp; Scrapy&lt;/strong&gt; (Advanced Web Scraping)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
