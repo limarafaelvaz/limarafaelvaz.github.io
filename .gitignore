@@ -1,0 +1,11 @@
+# Hugo - Build and Cache
+public/
+resources/
+.hugo_build.lock
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Optional: Localstack data (caso use na mesma pasta futuramente)
+.localstack/
