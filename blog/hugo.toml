@@ -1,10 +1,17 @@
-[params]
-  author = "Rafael Vaz de Lima"git add blog/hugo.toml
 baseURL = 'https://limarafaelvaz.github.io/'
 theme = 'PaperMod'
+themesDir = 'themes'
 
 # Idioma padrão
 defaultContentLanguage = 'pt-br'
+
+# Configuração de Autor (Essencial para evitar erro de RSS no Hugo v0.157+)
+[author]
+    name = "Rafael Vaz de Lima"
+
+[params]
+    author = "Rafael Vaz de Lima"
+    description = "Senior Software Engineer | High-Scale Systems & AI"
 
 [languages]
     [languages.pt-br]

@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/pt-br/tags/arquitetura/</loc>
+    <loc>http://localhost:1313/tags/arquitetura/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/carreira/</loc>
+    <loc>http://localhost:1313/tags/carreira/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/posts/apresentacao/</loc>
+    <loc>http://localhost:1313/posts/apresentacao/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/go/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/tags/go/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt-br/tags/go/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt-br/tags/ia/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/pt-br/posts/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/pt-br/</loc>
+    <loc>http://localhost:1313/tags/go/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/"
+                href="http://localhost:1313/en/tags/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/"
+                href="http://localhost:1313/tags/go/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/</loc>
+    <loc>http://localhost:1313/tags/ia/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/tags/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/tags/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/categories/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/categories/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/categories/"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/categories/"
                 />
   </url>
 </urlset>
