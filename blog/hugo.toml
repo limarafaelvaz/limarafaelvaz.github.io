@@ -2,16 +2,21 @@ baseURL = 'https://limarafaelvaz.github.io/'
 theme = 'PaperMod'
 themesDir = 'themes'
 
-# Idioma padrão
+# Idioma padrão do site
 defaultContentLanguage = 'pt-br'
+# Força o Hugo a criar a pasta /pt-br/ explicitamente na estrutura de build
+defaultContentLanguageInSubdir = true
 
-# Configuração de Autor (Essencial para evitar erro de RSS no Hugo v0.157+)
+# Configuração de Autor (Evita quebra de RSS no Hugo v0.157+)
 [author]
     name = "Rafael Vaz de Lima"
 
 [params]
     author = "Rafael Vaz de Lima"
     description = "Senior Software Engineer | High-Scale Systems & AI"
+    # Configurações específicas do PaperMod para o modo Home
+    showShareButtons = true
+    showCodeCopyButtons = true
 
 [languages]
     [languages.pt-br]
@@ -24,3 +29,10 @@ defaultContentLanguage = 'pt-br'
         contentDir = 'content/en'
         title = 'Rafael Vaz | AI Portfolio'
         weight = 2
+
+# Configurações do motor de Syntax Highlighting (Chroma)
+[markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = 'dracula'

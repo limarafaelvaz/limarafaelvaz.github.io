@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Rafael Vaz | AI DevLog</title>
+    <title>Artigos Técnicos on Rafael Vaz | AI DevLog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Rafael Vaz | AI DevLog</description>
+    <description>Recent content in Artigos Técnicos on Rafael Vaz | AI DevLog</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:47:31 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testes em Nível de Produção: Mocks, HTTPTest e Benchmarks</title>
+      <link>http://localhost:1313/posts/09-unit-integration-tests/</link>
+      <pubDate>Wed, 20 May 2026 08:47:31 -0800</pubDate>
+      <guid>http://localhost:1313/posts/09-unit-integration-tests/</guid>
+      <description>&lt;h1 id=&#34;testes-em-nível-de-produção-em-go-mocks-httptest-benchmarks-e-validação-de-concorrência&#34;&gt;Testes em Nível de Produção em Go: Mocks, HTTPTest, Benchmarks e Validação de Concorrência&lt;/h1&gt;&#xA;&lt;p&gt;Em sistemas de produção, a robustez e a confiabilidade são primordiais. Em Go, uma linguagem projetada para concorrência e performance, a estratégia de testes precisa ser igualmente sofisticada. Este artigo aprofunda-se em técnicas e ferramentas essenciais para garantir a qualidade de software em nível de produção, cobrindo desde os fundamentos do pacote &lt;code&gt;testing&lt;/code&gt; até a validação de concorrência e análise de performance.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Dev, Arquitetura e AI</title>
       <link>http://localhost:1313/posts/apresentacao/</link>
